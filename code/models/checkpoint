@@ -1,0 +1,6 @@
+model_checkpoint_path: "c3d_ucf_model-4999"
+all_model_checkpoint_paths: "c3d_ucf_model-4960"
+all_model_checkpoint_paths: "c3d_ucf_model-4970"
+all_model_checkpoint_paths: "c3d_ucf_model-4980"
+all_model_checkpoint_paths: "c3d_ucf_model-4990"
+all_model_checkpoint_paths: "c3d_ucf_model-4999"
