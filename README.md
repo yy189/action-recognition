@@ -8,6 +8,7 @@ Designed a visual interface with PyQt5 to:
 - display labels, thumbnails and label probabilities in a table.
 
 Screenshots:
+
 terminal during training:
 ![terminal during training](https://github.com/yy189/action-recognition/raw/master/screenshots/final_accuracy_curves.png)
 
